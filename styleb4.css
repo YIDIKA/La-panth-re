@@ -73,30 +73,9 @@ div#bloc-7 {
     padding: 20px 50px;
 }
 
-.bg-center,
-.bg-l-edge,
-.bg-r-edge,
-.bg-t-edge,
-.bg-b-edge,
-.bg-tl-edge,
-.bg-bl-edge,
-.bg-tr-edge,
-.bg-br-edge,
-.bg-repeat {
-    -webkit-background-size: auto!important;
-    -moz-background-size: auto!important;
-    -o-background-size: auto!important;
-    background-size: auto!important;
-}
-
 .bg-repeat {
     background: repeat;
 }
-
-.bg-t-edge {
-    background: top no-repeat;
-}
-
 
 body { background:rgb(30,30,40); }
 form { max-width:420px; margin:50px auto; }
