@@ -44,6 +44,10 @@ div#bloc-7 {
     background: #FFFFFF url("img/pageload-spinner.gif") no-repeat center center;
 }
 
+div#bloc-6 {
+    background-color: black !important;
+}
+
 .bloc {
     width: 100%;
     clear: both;
