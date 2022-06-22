@@ -97,6 +97,12 @@ form { max-width:420px; margin:50px auto; }
   outline:0;
 }
 
+div#bloc-0-contact {
+    background-color: white !important;
+}
+
+
+
 .feedback-input:focus { border:2px solid #CC4949; }
 
 textarea {
